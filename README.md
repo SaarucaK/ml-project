@@ -30,7 +30,10 @@ Set Up IPython Kernel in Environment
 ```
 python -m ipykernel install --user --name=environmentname
 ```
-Go to Anaconda Navigator. Go to Home and select the new environment from the dropdown menu.
-Launch Jupyter Notebook.<br />
-Navigate to folder with all files. Run code (tensorflow import statements provided in code). 
+Go to Anaconda Navigator:
+- go to Home
+- select the newly created environment from the second dropdown menu
+- launch Jupyter Notebook
+In Jupyter Notebook
+-navigate to folder with all files. Run code (tensorflow import statements provided in code). 
 
