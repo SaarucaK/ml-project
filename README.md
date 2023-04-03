@@ -11,7 +11,7 @@ Install:
 - Jupyter Notebook
 - Anaconda<br />
 
-In Anaconda Command Prompt, create new environment.
+In Anaconda Command Prompt, create new environment
 ```
 conda create --name environmentname
 ```
