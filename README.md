@@ -6,7 +6,7 @@ Cyrus Lee (100748627)<br />
 Yehchan Park (100754068)<br />
 Denishan Savarimuthu (100742526)<br />
 ### Installation Guide
-Download all files in repository and place in your workspace folder.
+Download all files in project_files folder and place in your workspace folder.
 Install:
 - Jupyter Notebook
 - Anaconda
