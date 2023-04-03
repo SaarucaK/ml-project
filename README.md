@@ -35,5 +35,6 @@ Go to Anaconda Navigator:
 - select the newly created environment from the second dropdown menu
 - launch Jupyter Notebook
 In Jupyter Notebook
--navigate to folder with all files. Run code (tensorflow import statements provided in code). 
+- navigate to folder with all files
+- run code (tensorflow import statements provided in code)
 
