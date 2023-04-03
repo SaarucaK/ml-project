@@ -10,6 +10,7 @@ Download all files in project_files folder and place in your workspace folder.
 Install:
 - Jupyter Notebook
 - Anaconda<br />
+
 In Anaconda Command Prompt, create new environment.
 ```
 conda create --name environmentname
